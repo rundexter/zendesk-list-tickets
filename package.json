@@ -1,12 +1,13 @@
 {
-    "name": "zendesk-list-tickets",
-    "version": "0.0.1",
-    "description": "",
-    "main": "index.js",
-    "author": "Alexander",
-    "license": "ISC",
-    "private": true,
-    "dependencies": {
-        "lodash": "^3.9.3"
-    }
+  "name": "zendesk-create-tickets",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Alexander",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "node-zendesk": "^1.1.5"
+  }
 }
