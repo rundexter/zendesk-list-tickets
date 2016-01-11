@@ -1,3 +1,4 @@
+
 module.exports = {
     /**
      * The main entry point for the Dexter module
