@@ -2,9 +2,7 @@
  * Metadata describing the module operation
  */
 {
-    "inputs": [
-        
-    ],
+    "inputs": [],
     "outputs": [
         {
             "id": "id",
