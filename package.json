@@ -1,13 +1,17 @@
 {
-  "name": "zendesk-create-tickets",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "author": "Alexander",
-  "license": "ISC",
-  "private": true,
-  "dependencies": {
-    "lodash": "^3.10.1",
-    "node-zendesk": "^1.1.5"
-  }
+   "name": "zendesk-create-tickets",
+   "version": "0.0.1",
+   "description": "Tickets are ordered chronologically by created date, from oldest to newest",
+   "main": "index.js",
+   "author": "Run Dexter, Inc",
+   "license": "MIT",
+   "private": true,
+   "dependencies": {
+      "lodash": "^3.10.1",
+      "node-zendesk": "^1.1.5"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/rundexter/zendesk-list-tickets"
+   }
 }
